@@ -3,7 +3,7 @@
 
 
 ## Introduction
-The component `Dropdown` support multiple or single selection in a dropdown select list. It also provides a search feature that enables users to search specific options. It also has Select All and Deselect All buttons to allow users select or deselect all options at once. This component is reusable, and developers can easiliy customize the options, placeholder, and title of the Dropdown component.
+The component `Dropdown` support multiple or single selection in a dropdown select list. It also provides a search feature that enables users to search specific options. It also has Select All and Deselect All buttons to allow users select or deselect all options at once. This component is reusable, and developers can easiliy customize the selection mode, options, placeholder, and title of the Dropdown component.
 
 ## Instructions
 Users can select multiple colors in the left dropdown list. Users can only select one option in the right dropdown list. (select by clicking on the dropdown bar and its dropping list)
