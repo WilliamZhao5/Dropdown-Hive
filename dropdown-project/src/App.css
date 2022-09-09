@@ -1,0 +1,11 @@
+.App {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.Dropdown {
+  padding: 10px;
+  width: 30%;
+}
